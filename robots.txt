@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tulareplumbingco.com/sitemap.xml
